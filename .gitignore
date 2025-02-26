@@ -6,7 +6,7 @@
 /dataset_stereo
 /baseline
 /datagenerator
-*.ipynb
+
 *copy.py
 /evaluate
 
