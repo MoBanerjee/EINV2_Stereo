@@ -3,6 +3,7 @@
 /parameter/
 /_hdf5
 /dataset
+/dataset_stereo
 /baseline
 /datagenerator
 *.ipynb
